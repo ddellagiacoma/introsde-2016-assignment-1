@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people>
+<person id="1">
+        <firstname>George R. R.</firstname>
+        <lastname>Martin</lastname>
+        <birthdate>1984-09-20T18:00:00.000+02:00</birthdate>
+        <healthprofile>
+            <lastupdate>2014-09-20T18:00:00.000+02:00</lastupdate>
+            <weight>90</weight>
+            <height>1.70</height>
+            <bmi>31.14</bmi>
+        </healthprofile>
+    </person>
+    <person id="2">
+        <firstname>Daniele</firstname>
+        <lastname>Dellagiacoma</lastname>
+        <birthdate>1992-12-02T17:22:11.652+01:00</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22T17:22:11.654+02:00</lastupdate>
+            <weight>70</weight>
+            <height>1.78</height>
+            <bmi>21.60</bmi>
+        </healthprofile>
+    </person>
+    <person id="3">
+        <firstname>Pinco</firstname>
+        <lastname>Pallino</lastname>
+        <birthdate>1988-12-02T17:22:11.652+01:00</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22T17:22:11.654+02:00</lastupdate>
+            <weight>80</weight>
+            <height>1.85</height>
+            <bmi>20.54</bmi>
+        </healthprofile>
+    </person>
+    <person id="4">
+        <firstname>Mario</firstname>
+        <lastname>Rossi</lastname>
+        <birthdate>1990-10-02T17:22:11.652+01:00</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-20T17:22:11.654+02:00</lastupdate>
+            <weight>92</weight>
+            <height>1.83</height>
+            <bmi>27.35</bmi>
+        </healthprofile>
+    </person>
+    <person id="5">
+        <firstname>Luigi</firstname>
+        <lastname>Verdi</lastname>
+        <birthdate>1967-09-02T17:22:11.652+01:00</birthdate>
+        <healthprofile>
+            <lastupdate>2016-04-22T17:22:11.654+02:00</lastupdate>
+            <weight>75</weight>
+            <height>1.75</height>
+            <bmi>18.47</bmi>
+        </healthprofile>
+    </person>
+    <person id="6">
+        <firstname>Giorgio</firstname>
+        <lastname>Bianchi</lastname>
+        <birthdate>1980-01-07T17:22:11.652+01:00</birthdate>
+        <healthprofile>
+            <lastupdate>2016-04-21T17:22:11.654+02:00</lastupdate>
+            <weight>100</weight>
+            <height>1.95</height>
+            <bmi>24.85</bmi>
+        </healthprofile>
+    </person>
+    <person id="7">
+        <firstname>Alex</firstname>
+        <lastname>Calvin</lastname>
+        <birthdate>1987-08-12T17:22:11.652+01:00</birthdate>
+        <healthprofile>
+            <lastupdate>2016-06-15T17:22:11.654+02:00</lastupdate>
+            <weight>65</weight>
+            <height>1.64</height>
+            <bmi>19.29</bmi>
+        </healthprofile>
+    </person>
+    <person id="8">
+        <firstname>Manley</firstname>
+        <lastname>Emerald</lastname>
+        <birthdate>1994-10-14T17:22:11.652+01:00</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-12T17:22:11.654+02:00</lastupdate>
+            <weight>86</weight>
+            <height>1.87</height>
+            <bmi>21.75</bmi>
+        </healthprofile>
+    </person>
+    <person id="9">
+        <firstname>Tennyson</firstname>
+        <lastname>Oddo</lastname>
+        <birthdate>1960-07-04T17:22:11.652+01:00</birthdate>
+        <healthprofile>
+            <lastupdate>2016-02-25T17:22:11.654+02:00</lastupdate>
+            <weight>87</weight>
+            <height>1.89</height>
+            <bmi>25.87</bmi>
+        </healthprofile>
+    </person>
+    <person id="10">
+        <firstname>Archibald</firstname>
+        <lastname>Tyson</lastname>
+        <birthdate>1975-08-02T17:22:11.652+01:00</birthdate>
+        <healthprofile>
+            <lastupdate>2016-03-12T17:22:11.654+02:00</lastupdate>
+            <weight>95</weight>
+            <height>1.90</height>
+            <bmi>31.90</bmi>
+        </healthprofile>
+    </person>
+    <person id="11">
+        <firstname>Giancarlo</firstname>
+        <lastname>Lorenzo</lastname>
+        <birthdate>1988-11-02T17:22:11.652+01:00</birthdate>
+        <healthprofile>
+            <lastupdate>2016-01-04T17:22:11.654+02:00</lastupdate>
+            <weight>83</weight>
+            <height>1.75</height>
+            <bmi>29.38</bmi>
+        </healthprofile>
+    </person>
+    <person id="12">
+        <firstname>Alfonso</firstname>
+        <lastname>Vinicio</lastname>
+        <birthdate>1993-07-12T17:22:11.652+01:00</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-10T17:22:11.654+02:00</lastupdate>
+            <weight>79</weight>
+            <height>1.74</height>
+            <bmi>28.36</bmi>
+        </healthprofile>
+    </person>
+    <person id="13">
+        <firstname>Gervase</firstname>
+        <lastname>Marshall</lastname>
+        <birthdate>1980-05-02T17:22:11.652+01:00</birthdate>
+        <healthprofile>
+            <lastupdate>2016-02-27T17:22:11.654+02:00</lastupdate>
+            <weight>98</weight>
+            <height>1.84</height>
+            <bmi>23.72</bmi>
+        </healthprofile>
+    </person>
+    <person id="14">
+        <firstname>Milo</firstname>
+        <lastname>Isadore</lastname>
+        <birthdate>1988-12-02T17:22:11.652+01:00</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-22T17:22:11.654+02:00</lastupdate>
+            <weight>74</weight>
+            <height>1.76</height>
+            <bmi>21.58</bmi>
+        </healthprofile>
+    </person>
+    <person id="15">
+        <firstname>Terrance</firstname>
+        <lastname>Wiley</lastname>
+        <birthdate>1977-08-22T17:22:11.652+01:00</birthdate>
+        <healthprofile>
+            <lastupdate>2016-04-13T17:22:11.654+02:00</lastupdate>
+            <weight>68</weight>
+            <height>1.68</height>
+            <bmi>16.27</bmi>
+        </healthprofile>
+    </person>
+    <person id="16">
+        <firstname>Dillan</firstname>
+        <lastname>Italo</lastname>
+        <birthdate>1995-05-17T17:22:11.652+01:00</birthdate>
+        <healthprofile>
+            <lastupdate>2016-11-24T17:22:11.654+02:00</lastupdate>
+            <weight>81</weight>
+            <height>1.81</height>
+            <bmi>22.35</bmi>
+        </healthprofile>
+    </person>
+    <person id="17">
+        <firstname>Jesse</firstname>
+        <lastname>Edoardo</lastname>
+        <birthdate>1987-10-10T17:22:11.652+01:00</birthdate>
+        <healthprofile>
+            <lastupdate>2016-09-15T17:22:11.654+02:00</lastupdate>
+            <weight>93</weight>
+            <height>1.87</height>
+            <bmi>22.30</bmi>
+        </healthprofile>
+    </person>
+    <person id="18">
+        <firstname>Bertoldo</firstname>
+        <lastname>Ansel</lastname>
+        <birthdate>1979-06-18T17:22:11.652+01:00</birthdate>
+        <healthprofile>
+            <lastupdate>2016-09-20T17:22:11.654+02:00</lastupdate>
+            <weight>84</weight>
+            <height>1.80</height>
+            <bmi>23.65</bmi>
+        </healthprofile>
+    </person>
+    <person id="19">
+        <firstname>Phoenix</firstname>
+        <lastname>Elwin</lastname>
+        <birthdate>1968-07-23T17:22:11.652+01:00</birthdate>
+        <healthprofile>
+            <lastupdate>2016-10-11T17:22:11.654+02:00</lastupdate>
+            <weight>74</weight>
+            <height>1.76</height>
+            <bmi>27.34</bmi>
+        </healthprofile>
+    </person>
+    <person id="20">
+        <firstname>Aldo</firstname>
+        <lastname>Kole</lastname>
+        <birthdate>1990-03-27T17:22:11.652+01:00</birthdate>
+        <healthprofile>
+            <lastupdate>2016-07-23T17:22:11.654+02:00</lastupdate>
+            <weight>85</weight>
+            <height>1.87</height>
+            <bmi>26.38</bmi>
+        </healthprofile>
+    </person>
+</people>
